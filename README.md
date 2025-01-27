@@ -1,7 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, there!
 
 
-I'm Mathieu, **Software Engineer**, currently working as a **Tech Lead** and a **Trainer** in <img src="https://cdn-icons-png.flaticon.com/128/197/197614.png" width="13"/> **Luxembourg**.
+I'm Mathieu, **Software Engineer**, currently working as **Tech Lead** and  **Trainer** in <img src="https://cdn-icons-png.flaticon.com/128/197/197614.png" width="13"/> **Luxembourg**.
 
 My passion lies in **Java development**, **Agile practices**, and fostering a culture of collaboration and growth in teams.
 
