@@ -8,7 +8,7 @@ My passion lies in **Java development**, **Agile practices**, and fostering a cu
 ## 🌟 **About Me**
 
 -  **Java Expert**: Over 15 years of experience building scalable and maintainable software.
--  **Team Efficiency**: Passionate about **Scrum** and fostering collaboration in cross-functional teams.
+-  **Team Efficiency**: Passionate about **Agile** and fostering collaboration in cross-functional teams.
 -  **Culture of Delivery**: I embrace automation, CI/CD pipelines and coding practices to deliver high-quality software.
 -  **Coaching & Mentoring**: I provide guidance and support to developers through workshops, trainings, and one-on-one coaching sessions.
 
